@@ -1,1 +1,22 @@
+h1{
+    color: aqua;
+   
+   }
+   body{
+       display: flex;
+       justify-content: center;
+      background: url( https://wallpapers-clan.com/wp-content/uploads/2023/12/pokemon-pokeball-pattern-desktop-wallpaper-preview.jpg);
+      background-repeat:no-repeat;
+      background-position: center,center;
+   
+   }
+   
+   #pokemon-info{
+       color: aliceblue;
+       font-size: large;
+   }
 
+img {
+    width: 200px;
+    height: 200px;
+}
